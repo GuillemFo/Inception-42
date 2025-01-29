@@ -1,0 +1,2 @@
+modified /etc/hosts to add the proper host redirection.
+127.0.0.1 gforns-s.42.fr
